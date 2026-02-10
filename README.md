@@ -91,10 +91,7 @@ All application settings are centralized in `config.py`:
 - **Effort**: Development effort (1-5 scale)
 
 ## 👨‍💼 Author
+Isha M Saxena 
 
-Portfolio project for Product Manager role interviews
 
-## 📝 License
-
-MIT
 
