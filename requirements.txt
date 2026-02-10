@@ -1,6 +1,19 @@
+s# Core Framework
 streamlit==1.31.0
+
+# AI/NLP Libraries
+sentence-transformers==2.3.1
 scikit-learn==1.4.0
+
+# Data Processing
 pandas==2.2.0
 numpy==1.26.3
+
+# Security
 bcrypt==4.1.2
+
+# Database
+# SQLite comes with Python, no additional install needed
+
+# Utilities
 python-dotenv==1.0.1
